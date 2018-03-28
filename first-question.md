@@ -297,11 +297,5 @@ fn main() {
 
     error: aborting due to previous error
 
-关于此问题的讨论有很多issue:
-
-\[\#12483\]\(https://github.com/rust-lang/rust/issues/12483\)
-
-\[\#30578\]\(https://github.com/rust-lang/rust/issues/30578\)
-
-\[\#45590\]\(https://github.com/rust-lang/rust/issues/45590\)
+关于此问题的讨论有很多issue: [\#12483](https://github.com/rust-lang/rust/issues/12483)、[\#30578](https://github.com/rust-lang/rust/issues/30578)、[\#45590](https://github.com/rust-lang/rust/issues/45590)
 
